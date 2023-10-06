@@ -23,6 +23,12 @@ This account isn't super active as the last 2 jobs I've had have required enterp
 1. doesn't affect my contractual obligations, and;
 2. might help someone else
 
+## Beer Fund
+If you like anything you anything on here, I have a beer fund. Donate, don't, up to you, I just added it because I'm shameless
+
+[Donate Here](https://www.paypal.com/donate/?business=W7J42EFE4AW88&no_recurring=0&item_name=Beer+Fund&currency_code=AUD)
+
+
 <!--
 **digi-ron/digi-ron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
