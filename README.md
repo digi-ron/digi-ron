@@ -1,4 +1,4 @@
-### Ronnie's Github
+# Ronnie's Github
 
 Hi there, if you've made it to this page, welcome to my github repo. In here is nothing super fancy or anything, just a small collection of things I worked on over the years. I've added some info below if you'd like to know what stuff I work on or where else on the wide interwebs you can find me:
 
