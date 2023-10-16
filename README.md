@@ -14,6 +14,7 @@ I also dabble with AutoHotKey, but a lot of that comes down to one 1000+ line sc
 ## Interests
 Outside of work, I can usually be found messing around with:
 - PowerShell (again)
+- C# (only as far as super basic C# Winforms apps)
 - TrueNAS
 - PC Repairs
 - Data-Hoarding excercises
