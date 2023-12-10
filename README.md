@@ -8,14 +8,14 @@ generally I try to tie my own 'curiosity' projects in with the same technology I
 - PowerShell
 - React Typescript (SPFx)
 - Node.js (usually with TypeScript installed)
-- C# (just starting out)
+- C#
 
 I also dabble with AutoHotKey, but a lot of that comes down to one 1000+ line script I kept building onto since the Windows 7 days, nothing work related
 
 ## Interests
 Outside of work, I can usually be found messing around with:
 - PowerShell (again)
-- C# (only as far as super basic C# Winforms apps)
+- C# (just basic WPF and Console Apps)
 - TrueNAS
 - PC Repairs
 - Data-Hoarding excercises
