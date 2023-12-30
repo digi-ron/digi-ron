@@ -24,9 +24,10 @@ Outside of work, I can usually be found messing around with:
 This account isn't super active as the last 2 jobs I've had have required enterprise sign-in, which I'd prefer not to tie my main github account to, so I wouldn't be waiting with baited breath for a lot of repos to show up, I usually just upload any offcuts that:
 1. doesn't affect my contractual obligations, and;
 2. might help someone else
+3. could look good to a recruiter or HR department
 
 ## Beer Fund
-If you like anything I've published on here, I have a beer fund. Donate, don't, up to you, I just added it because I'm shameless
+If you like anything I've published on here, I have a beer fund. Donate, don't, up to you, I just added it for shits and giggles.
 
 [Donate Here](https://www.paypal.com/donate/?business=W7J42EFE4AW88&no_recurring=0&item_name=Beer+Fund&currency_code=AUD)
 
