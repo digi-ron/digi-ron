@@ -2,18 +2,29 @@
 
 Hi there, if you've made here by accident or on purpose, welcome to my GitHub page, a quiet place containing just a small collection of things I worked on over the years. I've added some info below if you'd like to know what stuff I work on or where else on the wide interwebs you can find me:
 
+| Color | Legend |
+| ------- | ----- |
+| 🟢 | know it, lived it, loved it |
+| 🟡 | like it, learning some of it |
+| 🟠 | it exists, I know *just* enough to slide through |
+| 🔴 | if you ask me questions about it... why? |
+| ⚪ | work related |
+| 🔵 | hobby/for fun |
+
 ## Favoured Tech
 generally I try to tie my own 'curiosity' projects in with the same technology I have used in previous jobs, therefore a lot of the repos in here contain one of:
-- Batchfile
-- PowerShell
-- React Typescript (SPFx)
-- Node.js (usually with TypeScript installed)
-- C# (so far mostly basic WPF applications)
-- AutoHotKey (mostly one massive script I kept building on since the Windows 7 days when I wanted Win8 features *without* buying an SSD)
+| ⚫ | Tech |
+| ----- | ----- |
+| 🟠⚪ | Batchfile |
+| 🟢⚪🔵 | PowerShell |
+| 🟡⚪ | React Typescript (SPFx) |
+| 🟡🔵 | Node.js (usually with TypeScript) |
+| 🟠⚪🔵 | C# (simple desktop apps) |
+| 🟢🔵 | AutoHotKey (automating my life with about 1000 lines of AHK) |
 
 I've also been known to work with:
-- TrueNAS Core Management and related Data-Hoarding exercises
-- PC Repairs (I was a technician in a past life)
+🔵 TrueNAS Core Management and related Data-Hoarding exercises
+🔵 PC Repairs (I was a technician in a past life)
 
 ## Where am I?
 This account isn't super active as the last 2 jobs I've had have required enterprise sign-in, which I'd prefer not to tie my main github account to, so I wouldn't be waiting with baited breath for a lot of repos to show up, I usually just upload any offcuts that:
