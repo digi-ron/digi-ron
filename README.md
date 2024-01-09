@@ -1,6 +1,6 @@
 # Ronnie's Github
 
-Hi there, if you've made it to this page, welcome to my github page, containing just a small collection of things I worked on over the years. I've added some info below if you'd like to know what stuff I work on or where else on the wide interwebs you can find me:
+Hi there, if you've made here by accident or on purpose, welcome to my GitHub page, a quiet place containing just a small collection of things I worked on over the years. I've added some info below if you'd like to know what stuff I work on or where else on the wide interwebs you can find me:
 
 ## Favoured Tech
 generally I try to tie my own 'curiosity' projects in with the same technology I have used in previous jobs, therefore a lot of the repos in here contain one of:
@@ -10,6 +10,7 @@ generally I try to tie my own 'curiosity' projects in with the same technology I
 - Node.js (usually with TypeScript installed)
 - C# (so far mostly basic WPF applications)
 - AutoHotKey (mostly one massive script I kept building on since the Windows 7 days when I wanted Win8 features *without* buying an SSD)
+
 I've also been known to work with:
 - TrueNAS Core Management and related Data-Hoarding exercises
 - PC Repairs (I was a technician in a past life)
