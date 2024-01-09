@@ -23,7 +23,9 @@ generally I try to tie my own 'curiosity' projects in with the same technology I
 | 🟢🔵 | AutoHotKey (automating my life with about 1000 lines of AHK) |
 
 I've also been known to work with:
+
 🔵 TrueNAS Core Management and related Data-Hoarding exercises
+
 🔵 PC Repairs (I was a technician in a past life)
 
 ## Where am I?
