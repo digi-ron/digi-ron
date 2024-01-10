@@ -21,7 +21,7 @@ generally I try to tie my own 'curiosity' projects in with the same technology I
 | 🟡🔵 | Node.js (usually with TypeScript) |
 | 🟠⚪🔵 | C# (simple desktop apps) |
 | 🟠⚪ | Batchfile |
-| 🔴 | Bash script (very rarely) |
+| 🔴🔵 | Bash script (very rarely) |
 
 I've also been known to work with:
 
