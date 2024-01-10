@@ -15,12 +15,12 @@ Hi there, if you've made here by accident or on purpose, welcome to my GitHub pa
 generally I try to tie my own 'curiosity' projects in with the same technology I have used in previous jobs, therefore a lot of the repos in here contain one of:
 | ⚫ | Tech |
 | ----- | ----- |
-| 🟠⚪ | Batchfile |
 | 🟢⚪🔵 | PowerShell |
+| 🟢🔵 | AutoHotKey (automating my life with about 1000 lines of AHK) |
 | 🟡⚪ | React Typescript (SPFx) |
 | 🟡🔵 | Node.js (usually with TypeScript) |
 | 🟠⚪🔵 | C# (simple desktop apps) |
-| 🟢🔵 | AutoHotKey (automating my life with about 1000 lines of AHK) |
+| 🟠⚪ | Batchfile |
 
 I've also been known to work with:
 
