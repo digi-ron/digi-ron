@@ -35,7 +35,7 @@ This account isn't super active as the last 2 jobs I've had have required enterp
 2. might help someone else
 3. could look good to a recruiter or HR department
 
-I am still around on other platforms as much as can be expectedd, take a look at my side pane for anywhere else I am
+I am still around on other platforms as much as can be expected, take a look at my side pane for anywhere else I am
 
 ## Beer Fund
 If you like anything I've published on here, I have a beer fund. Donate, don't, up to you, I mostly added it on a friends recommendation.
