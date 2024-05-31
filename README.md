@@ -31,8 +31,8 @@ I've also been known to work with:
 
 ## Where am I?
 This account isn't super active as the last 2 jobs I've had have required enterprise sign-in, which I'd prefer not to tie my main github account to, so I wouldn't be waiting with baited breath for a lot of repos to show up, I usually just upload any offcuts that:
-1. doesn't affect my contractual obligations, and;
-2. might help someone else
+1. doesn't affect my contractual obligations
+2. might help someone else, and;
 3. could look good to a recruiter or HR department
 
 I am still around on other platforms as much as can be expected, take a look at my side pane for anywhere else I am
