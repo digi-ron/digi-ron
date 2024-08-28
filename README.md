@@ -16,11 +16,12 @@ generally I try to tie my own 'curiosity' projects in with the same technology I
 | ⚫ | Tech |
 | ----- | ----- |
 | 🟢⚪🔵 | PowerShell |
-| 🟢🔵 | AutoHotKey (automating my life with about 1000 lines of AHK) |
+| 🟡🔵 | AutoHotKey |
 | 🟡⚪ | React Typescript (SPFx) |
 | 🟡🔵 | Node.js (usually with TypeScript) |
 | 🟠⚪🔵 | C# (simple desktop apps) |
 | 🟠⚪ | Batchfile |
+| 🟠🔵 | Python |
 | 🔴🔵 | Bash script (very rarely) |
 
 I've also been known to work with:
@@ -31,7 +32,7 @@ I've also been known to work with:
 
 ## Where am I?
 This account isn't super active as the last 2 jobs I've had have required enterprise sign-in, which I'd prefer not to tie my main github account to, so I wouldn't be waiting with baited breath for a lot of repos to show up, I usually just upload any offcuts that:
-1. doesn't affect my contractual obligations
+1. don't affect my contractual obligations
 2. might help someone else, and;
 3. could look good to a recruiter or HR department
 
