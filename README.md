@@ -19,6 +19,7 @@ generally I try to tie my own 'curiosity' projects in with the same technology I
 | 🟡🔵 | AutoHotKey |
 | 🟡⚪ | React Typescript (SPFx) |
 | 🟡🔵 | Node.js (usually with TypeScript) |
+| 🟠⚪ | Ruby/Jekyll (Github Pages) |
 | 🟠⚪🔵 | C# (simple desktop apps) |
 | 🟠⚪ | Batchfile |
 | 🟠🔵 | Python |
@@ -44,21 +45,3 @@ I am still around on other platforms as much as can be expected, take a look at 
 If you like anything I've published on here, I have a beer fund. Donate, don't, up to you, I mostly added it on a friends recommendation.
 
 [Donate Here](https://www.paypal.com/donate/?business=W7J42EFE4AW88&no_recurring=0&item_name=Beer+Fund&currency_code=AUD)
-
-
-<!--
-**digi-ron/digi-ron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- Fuck -->
