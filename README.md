@@ -19,8 +19,8 @@ generally I try to tie my own 'curiosity' projects in with the same technology I
 | 🟡🔵 | AutoHotKey |
 | 🟡⚪ | React Typescript (SPFx) |
 | 🟡🔵 | Node.js (usually with TypeScript) |
+| 🟡⚪🔵 | C# (.NET Core, Winforms and Enterprise CMS solutions) |
 | 🟠⚪ | Ruby/Jekyll (Github Pages) |
-| 🟠⚪🔵 | C# (simple desktop apps) |
 | 🟠⚪ | Batchfile |
 | 🟠🔵 | Python |
 | 🔴🔵 | Bash script (very rarely) |
