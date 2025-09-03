@@ -12,22 +12,32 @@ Hi there, if you've made here by accident or on purpose, welcome to my GitHub pa
 | 🔵 | hobby/for fun |
 
 ## Favoured Tech
-generally I try to tie my own 'curiosity' projects in with the same technology I have used in previous jobs, therefore a lot of the repos in here contain one of:
-| ⚫ | Tech |
-| ----- | ----- |
-| 🟢⚪🔵 | PowerShell |
-| 🟡🔵 | AutoHotKey |
-| 🟡⚪ | React Typescript (SPFx) |
-| 🟡🔵 | Node.js (usually with TypeScript) |
-| 🟡⚪🔵 | C# (.NET Core, Winforms and Enterprise CMS solutions) |
-| 🟠⚪ | Ruby/Jekyll (Github Pages) |
-| 🟠⚪ | Batchfile |
-| 🟠🔵 | Python |
-| 🔴🔵 | Bash script (very rarely) |
+Generally I try to tie my own 'curiosity' projects in with the same technology I have used in previous jobs, therefore a lot of the repos in here contain one of:
+| ⚫ | Tech | Notes |
+| ----- | ----- | ----- |
+| 🟢⚪🔵 | PowerShell | |
+| 🟡🔵 | AutoHotKey | |
+| 🟡⚪ | React Typescript | SPFx Components |
+| 🟡🔵 | Node.js | Usually with Typescript installed |
+| 🟡⚪🔵 | C# | .NET Framework Winforms & ASP.NET Framework, .NET Core/6/8 WPF & ASP.NET Core |
+| 🟠⚪ | Ruby/Jekyll | Github Pages |
+| 🟠⚪ | Batchfile | |
+| 🟠🔵 | Python | |
+| 🔴🔵 | Bash script | Very Rarely |
+
+## Products and Ecosystems
+As is inevitable for developers, I've become the official S.M.E (Subject Matter Expert) for a couple of larger products. These tend to influence choices in what I develop as I'll try to stick to either what I know or what could be tangentally beneficial, which include:
+
+| ⚫ | Product/Ecosystem | Notes |
+| ----- | ----- | ----- |
+| 🟢⚪ | Microsoft 365 | SharePoint Online and Power Platform focused with the occasional Azure solution |
+| 🟡⚪ | Optimizely CMS | |
+| 🟡⚪ | Umbraco | |
+| 🟡🔵 | Docker | Primarily custom apps for TrueNAS Scale and images to be run under a Windows host |
+| 🟡🔵 | TrueNAS | Most recently Scale but ran a Core server for 4 years prior |
+| 🔴⚪ | Salesforce | Usually limited to calling it as an external data source |
 
 I've also been known to work with:
-
-🔵 TrueNAS Core Management and related Data-Hoarding exercises
 
 🔵 PC Repairs (I was a technician in a past life)
 
