@@ -35,23 +35,24 @@ As is inevitable for developers, I've become the official S.M.E (Subject Matter 
 | 🟡⚪ | Umbraco | |
 | 🟡🔵 | Docker | Primarily custom apps for TrueNAS Scale and images to be run under a Windows host |
 | 🟡🔵 | TrueNAS | Most recently Scale but ran a Core server for 4 years prior |
+| 🟠⚪🔵 | FAMP/LAMP | Scattered through the last decade but easy enough to come back to |
 | 🔴⚪ | Salesforce | Usually limited to calling it as an external data source |
 
 I've also been known to work with:
 
 🔵 PC Repairs (I was a technician in a past life)
 
-🔵 Information gathering and 3D modelling of parts for a 1999-2002 Ford Falcon AU
+🔵 Information gathering and 3D modelling of parts for a 1999-2002 Ford Falcon AU ([passion project](https://digi-ron.github.io/AU-Falcon-SPUD-Project/))
 
 ## Where am I?
-This account isn't super active as the last 2 jobs I've had have required enterprise sign-in, which I'd prefer not to tie my main github account to, so I wouldn't be waiting with baited breath for a lot of repos to show up, I usually just upload any offcuts that:
+This account isn't as active as it could be. The last 2 jobs I've had have required enterprise sign-in, which I'd prefer not to tie my main github account to. This account is my personal one, and I only publish any offcuts that:
 1. don't affect my contractual obligations
 2. might help someone else, and;
-3. could look good to a recruiter or HR department
+3. could look good to a Recruiter/HR department/Hiring Manager
 
 I am still around on other platforms as much as can be expected, take a look at my side pane for anywhere else I am
 
 ## Beer Fund
-If you like anything I've published on here, I have a beer fund. Donate, don't, up to you, I mostly added it on a friends recommendation.
+If you’ve found something useful in amongst my works, I’d be grateful for your support — consider contributing to my beer fund below
 
 [Donate Here](https://www.paypal.com/donate/?business=W7J42EFE4AW88&no_recurring=0&item_name=Beer+Fund&currency_code=AUD)
